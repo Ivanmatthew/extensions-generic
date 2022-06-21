@@ -409,7 +409,7 @@
             "desc": "Extension that pulls manga from https://manhwa18.cc",
             "website": "http://github.com/Ivanmatthew",
             "contentRating": "ADULT",
-            "version": "2.1.6",
+            "version": "0.0.1",
             "icon": "icon.png",
             "tags": [
                 {
