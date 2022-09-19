@@ -20244,7 +20244,7 @@ const paperback_extensions_common_1 = require("paperback-extensions-common");
 const Madara_1 = require("../Madara");
 const DOMAIN = 'https://manhuaus.com';
 exports.ManhuausInfo = {
-    version: Madara_1.getExportVersion('0.0.2'),
+    version: Madara_1.getExportVersion('0.0.3'),
     name: 'Manhuaus',
     description: `Extension that pulls manga from ${DOMAIN}`,
     author: 'GameFuzzy',
